@@ -71,8 +71,8 @@ const projects = [
     description:
       "I'm following a course on React and believe I have a solid grasp of the fundamentals (such as components, props, prop drilling, useState, useEffect, syntax, etc.). I've decided to update my plain homepage with a new one using React. This project serves as a test of my React fundamentals skills.",
     type: 'website',
-    linkWebsite: 'https://dawaladeny.eu',
-    linkGithub: '',
+    linkWebsite: 'https://main1.dawaladeny.eu',
+    linkGithub: 'https://github.com/DawalaDeny/Homepage-v1-React',
   },
 ]
 export default projects
